@@ -1,6 +1,6 @@
 # stepik
 Мой первый репозиторий
 Моё первое изменение
-123
+test
 Add line
 commit test
