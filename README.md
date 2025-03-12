@@ -7,3 +7,4 @@ Add line 5
 commit test
 new branch line
 new branch 
+commit line
